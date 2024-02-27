@@ -90,34 +90,19 @@ function About() {
                 <br />
                 <div className="p-4 text-[15px] text-white-200 px-5 bg-dark-400 border-solid">
                   <p className="text-lg border-l-green-200 p-4 text-[15px] text-white-200 px-5 bg-dark-400 border-solid">
-                    A dedicated Information Technology student and a passionate
-                    MERN stack developer with expertise in virtualization,
-                    networking, and cloud computing. 🌟
+                    A passionate IT student and a dedicated MERN stack developer on a mission to transform ideas into reality. 🌟
                   </p>
                   <p className="text-lg border-l-green-200 p-4 text-[15px] text-white-200 px-5 bg-dark-400 border-solid">
-                    With a keen eye for detail and a fervent love for coding, I
-                    strive to translate concepts into functional digital
-                    solutions. My dedication to coding goes beyond mere tasks;
-                    it's a commitment to creating impactful technological
-                    innovations.
+                    With an obsessive attention to detail and an unwavering love for crafting digital solutions, I bring dreams to life through code. My work ethic is more than a job  it&apos;s a mission to make a lasting impact.
                   </p>
                   <p className="text-lg border-l-green-200 p-4 text-[15px] text-white-200 px-5 bg-dark-400 border-solid">
-                    ⚙️ I firmly believe that being an exceptional developer
-                    entails more than just writing code; it involves
-                    comprehending complex problems, designing elegant solutions,
-                    and perpetually enhancing skills to remain at the forefront
-                    of technology.
+                    ⚙️ I believe that a great developer isn&apos;t just about writing code; it&apos;s about understanding the problem, architecting elegant solutions, and continuously learning to stay at the cutting edge of technology.
                   </p>
                   <p className="text-lg border-l-green-200 p-4 text-[15px] text-white-200 px-5 bg-dark-400 border-solid">
-                    🌍 I am enthusiastic about collaborating with
-                    forward-thinking teams and organizations that share a vision
-                    for innovation and are committed to leveraging technology to
-                    change the world.
+                    🌍 I&apos;m excited about the opportunity to collaborate with visionary teams and organizations that share a passion for innovation and the drive to change the world through technology.
                   </p>
                   <p className="text-lg border-l-green-200 p-4 text-[15px] text-white-200 px-5 bg-dark-400 border-solid">
-                    Let's connect and create something extraordinary together.
-                    Don't hesitate to reach out, and let's transform ideas into
-                    digital marvels! ✨
+                    Let&apos;s connect and build something extraordinary together. Feel free to reach out, and let&apos;s turn ideas into digital magic! ✨
                   </p>
                 </div>
               </div>
