@@ -9,7 +9,7 @@ const Footer: React.FC = () => {
                     <span className='hidden lg:block'>
                     <RightArrow />
                     </span>
-                    <p className=''>Made With 💓 By webTribe</p>
+                    <p className=''>Crafted with 💓 Creative Minds</p>
                 </div>
             </div>
         </footer>
